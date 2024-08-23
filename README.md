@@ -1,2 +1,1 @@
 "# Lorenc-attractor" 
-"# Lorenc-attractor" 
